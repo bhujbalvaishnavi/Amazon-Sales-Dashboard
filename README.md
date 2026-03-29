@@ -4,6 +4,10 @@
    
 Amazon Sales Dashboard | Power BI Project for Business Insights & Decision Making
 
+2.  Short Description / Purpose
+This project presents an interactive Power BI dashboard built using Amazon sales data to analyze key business metrics such as sales performance, profit trends, customer segmentation, and regional distribution.
+The goal is to transform raw data into actionable insights for better strategic decision-making.
+
 3. Short Description / Purpose
 This project presents an interactive Power BI dashboard built using Amazon sales data to analyze key business metrics such as sales performance, profit trends, customer segmentation, and regional distribution.
 The goal is to transform raw data into actionable insights for better strategic decision-making.
