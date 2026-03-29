@@ -64,37 +64,51 @@ The goal is to transform raw data into actionable insights for better strategic 
             Orders: 5901
             Customers: 773
  
-         Sales Trend (Monthly Distribution)
+
+       Sales Trend (Monthly Distribution)
                -Compares yearly performance (2019 vs 2020)
                -Identifies seasonal trends
 
-         Sales by Category
+
+       Sales by Category
               -Office Supplies, Technology, Furniture comparison
  
-         Top Profitable Sub-Categories
+
+       Top Profitable Sub-Categories
               -Copiers, Accessories, Phones
  
-         Customer Segmentation
+
+       Customer Segmentation
               -Consumer, Corporate, Home Office
  
-         Payment & Shipping Mode Analysis
+
+       Payment & Shipping Mode Analysis
             -COD, Cards, Online
             -Standard Class dominates shipping
  
-        Geo Distribution Map
+
+       Geo Distribution Map
              -Visualizes regional sales performance
  
-        Return Status
+
+       Return Status
             -Highlights return percentage (low return rate insight)
 
     5. 📈 Business Impact & Insights
+     
         📌 Consumer segment contributes highest sales (~51%)
+
         📌 COD is the most used payment method (~42%)
-        📌 Standard shipping dominates (~58%)
-        📌 Office supplies generate highest revenue
-        📌 Copiers are the most profitable sub-category
-        📌 Low return rate (~5%) indicates strong customer satisfaction
-        📌 Sales show growth trend in later months (seasonality effect)
+
+       📌 Standard shipping dominates (~58%)
+
+       📌 Office supplies generate highest revenue
+
+       📌 Copiers are the most profitable sub-category
+
+       📌 Low return rate (~5%) indicates strong customer satisfaction
+
+       📌 Sales show growth trend in later months (seasonality effect)
 
 6. 🖼 Screenshot
    Show what the dashborad look like. -![dasahbord preview](https://github.com/bhujbalvaishnavi/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashbord.png)
