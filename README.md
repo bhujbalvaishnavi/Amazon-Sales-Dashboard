@@ -57,7 +57,8 @@ The goal is to transform raw data into actionable insights for better strategic 
        -Enable data-driven business decisions
 
     3. 📊 Walkthrough of Key Visuals
-          KPI Cards
+
+       KPI Cards
             Total Sales: 1.57M
             Profit: 175.26K
             Orders: 5901
@@ -86,7 +87,7 @@ The goal is to transform raw data into actionable insights for better strategic 
         Return Status
             -Highlights return percentage (low return rate insight)
 
-    4. 📈 Business Impact & Insights
+    5. 📈 Business Impact & Insights
         📌 Consumer segment contributes highest sales (~51%)
         📌 COD is the most used payment method (~42%)
         📌 Standard shipping dominates (~58%)
