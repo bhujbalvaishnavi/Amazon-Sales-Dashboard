@@ -112,4 +112,5 @@ The goal is to transform raw data into actionable insights for better strategic 
        📌 Sales show growth trend in later months (seasonality effect)
 
 6. 🖼 Screenshot
+
    Show what the dashborad look like. -![dasahbord preview](https://github.com/bhujbalvaishnavi/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashbord.png)
