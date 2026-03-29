@@ -26,17 +26,17 @@ The goal is to transform raw data into actionable insights for better strategic 
 
     Amazon Sales Dataset (Excel file)
 
-Contains:
+   Contains:
 
--Orders
+   -Orders
 
--Customer segments
+   -Customer segments
 
--Sales & profit data
+   -Sales & profit data
 
--Shipping modes
+    -Shipping modes
 
--Regional distribution
+    -Regional distribution
 
 5. Features / Highlights -
 
