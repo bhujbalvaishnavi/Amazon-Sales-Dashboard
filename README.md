@@ -1,4 +1,5 @@
 # Amazon-Sales-Dashboard
+Turning raw Amazon sales data into powerful business insights using Power BI 🚀📊
 
 1. Project Title / Headline -
 
