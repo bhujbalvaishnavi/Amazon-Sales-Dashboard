@@ -50,50 +50,50 @@ The goal is to transform raw data into actionable insights for better strategic 
        -Monitor return rates
 
     2. 🎯 Goal of the Dashboard
--Provide real-time sales insights
--Identify top-performing categories & sub-categories
--Analyze customer segments & purchasing behavior
--Track profit trends and return status
--Enable data-driven business decisions
+       -Provide real-time sales insights
+       -Identify top-performing categories & sub-categories
+       -Analyze customer segments & purchasing behavior
+       -Track profit trends and return status
+       -Enable data-driven business decisions
 
-3. 📊 Walkthrough of Key Visuals
- KPI Cards
-    Total Sales: 1.57M
-    Profit: 175.26K
-    Orders: 5901
-    Customers: 773
+    3. 📊 Walkthrough of Key Visuals
+       KPI Cards
+        Total Sales: 1.57M
+        Profit: 175.26K
+        Orders: 5901
+        Customers: 773
  
- Sales Trend (Monthly Distribution)
-    -Compares yearly performance (2019 vs 2020)
-    -Identifies seasonal trends
+      Sales Trend (Monthly Distribution)
+        -Compares yearly performance (2019 vs 2020)
+        -Identifies seasonal trends
 
- Sales by Category
-    -Office Supplies, Technology, Furniture comparison
+     Sales by Category
+        -Office Supplies, Technology, Furniture comparison
  
- Top Profitable Sub-Categories
-    -Copiers, Accessories, Phones
+     Top Profitable Sub-Categories
+        -Copiers, Accessories, Phones
  
- Customer Segmentation
-    -Consumer, Corporate, Home Office
+     Customer Segmentation
+        -Consumer, Corporate, Home Office
  
- Payment & Shipping Mode Analysis
-    -COD, Cards, Online
-    -Standard Class dominates shipping
+     Payment & Shipping Mode Analysis
+        -COD, Cards, Online
+        -Standard Class dominates shipping
  
- Geo Distribution Map
-    -Visualizes regional sales performance
+     Geo Distribution Map
+        -Visualizes regional sales performance
  
- Return Status
-    -Highlights return percentage (low return rate insight)
+     Return Status
+        -Highlights return percentage (low return rate insight)
 
-4. 📈 Business Impact & Insights
-📌 Consumer segment contributes highest sales (~51%)
-📌 COD is the most used payment method (~42%)
-📌 Standard shipping dominates (~58%)
-📌 Office supplies generate highest revenue
-📌 Copiers are the most profitable sub-category
-📌 Low return rate (~5%) indicates strong customer satisfaction
-📌 Sales show growth trend in later months (seasonality effect)
+    4. 📈 Business Impact & Insights
+        📌 Consumer segment contributes highest sales (~51%)
+        📌 COD is the most used payment method (~42%)
+        📌 Standard shipping dominates (~58%)
+        📌 Office supplies generate highest revenue
+        📌 Copiers are the most profitable sub-category
+        📌 Low return rate (~5%) indicates strong customer satisfaction
+        📌 Sales show growth trend in later months (seasonality effect)
 
 6. 🖼 Screenshot
    Show what the dashborad look like. -![dasahbord preview](https://github.com/bhujbalvaishnavi/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashbord.png)
