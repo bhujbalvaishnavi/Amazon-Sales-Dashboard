@@ -2,7 +2,7 @@
 
 1. Project Title / Headline -
 
-  Amazon Sales Dashboard | Power BI Project for Business Insights & Decision Making
+    Amazon Sales Dashboard | Power BI Project for Business Insights & Decision Making
 
 3.  Short Description / Purpose -
 This project presents an interactive Power BI dashboard built using Amazon sales data to analyze key business metrics such as sales performance, profit trends, customer segmentation, and regional distribution.
