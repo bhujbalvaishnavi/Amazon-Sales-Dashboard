@@ -7,18 +7,14 @@
 This project presents an interactive Power BI dashboard built using Amazon sales data to analyze key business metrics such as sales performance, profit trends, customer segmentation, and regional distribution.
 The goal is to transform raw data into actionable insights for better strategic decision-making.
 
-3. Short Description / Purpose
-This project presents an interactive Power BI dashboard built using Amazon sales data to analyze key business metrics such as sales performance, profit trends, customer segmentation, and regional distribution.
-The goal is to transform raw data into actionable insights for better strategic decision-making.
-
-4. Tech Stack
+3. Tech Stack -
 The dashboard was bulit using the following tools and technologies:
 Power BI – Data visualization & dashboard creation
 Excel – Data source & preprocessing
 DAX (Data Analysis Expressions) – Calculated measures & KPIs
 Data Modeling – Relationships & schema design
 
-5. Data Source
+4. Data Source -
 Amazon Sales Dataset (Excel file)
 
 Contains:
@@ -28,7 +24,7 @@ Contains:
 -Shipping modes
 -Regional distribution
 
-6. Features / Highlights
+5. Features / Highlights -
 1. 📉 Business Problem
 
 Businesses often struggle to:
@@ -85,4 +81,4 @@ Businesses often struggle to:
 📌 Sales show growth trend in later months (seasonality effect)
 
 6. 🖼 Screenshot
-   Show what the dashborad look like. -(https://github.com/bhujbalvaishnavi/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashbord.png)
+   Show what the dashborad look like. -![dasahbord preview](https://github.com/bhujbalvaishnavi/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashbord.png)
