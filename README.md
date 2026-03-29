@@ -42,14 +42,14 @@ The goal is to transform raw data into actionable insights for better strategic 
 
     1. 📉 Business Problem
 
-Businesses often struggle to:
+       Businesses often struggle to:
 
--Track sales performance across regions
--Identify profitable categories
--Understand customer behavior
--Monitor return rates
+       -Track sales performance across regions
+       -Identify profitable categories
+       -Understand customer behavior
+       -Monitor return rates
 
-2. 🎯 Goal of the Dashboard
+    2. 🎯 Goal of the Dashboard
 -Provide real-time sales insights
 -Identify top-performing categories & sub-categories
 -Analyze customer segments & purchasing behavior
