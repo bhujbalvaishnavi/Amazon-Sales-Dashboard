@@ -10,6 +10,7 @@
 The goal is to transform raw data into actionable insights for better strategic decision-making.
 
 3. Tech Stack -
+
    The dashboard was bulit using the following tools and technologies:
         Power BI – Data visualization & dashboard creation
         Excel – Data source & preprocessing
