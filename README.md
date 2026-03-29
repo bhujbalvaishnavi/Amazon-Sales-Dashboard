@@ -57,34 +57,34 @@ The goal is to transform raw data into actionable insights for better strategic 
        -Enable data-driven business decisions
 
     3. 📊 Walkthrough of Key Visuals
-       KPI Cards
-        Total Sales: 1.57M
-        Profit: 175.26K
-        Orders: 5901
-        Customers: 773
+          KPI Cards
+            Total Sales: 1.57M
+            Profit: 175.26K
+            Orders: 5901
+            Customers: 773
  
-      Sales Trend (Monthly Distribution)
-        -Compares yearly performance (2019 vs 2020)
-        -Identifies seasonal trends
+         Sales Trend (Monthly Distribution)
+               -Compares yearly performance (2019 vs 2020)
+               -Identifies seasonal trends
 
-     Sales by Category
-        -Office Supplies, Technology, Furniture comparison
+         Sales by Category
+              -Office Supplies, Technology, Furniture comparison
  
-     Top Profitable Sub-Categories
-        -Copiers, Accessories, Phones
+         Top Profitable Sub-Categories
+              -Copiers, Accessories, Phones
  
-     Customer Segmentation
-        -Consumer, Corporate, Home Office
+         Customer Segmentation
+              -Consumer, Corporate, Home Office
  
-     Payment & Shipping Mode Analysis
-        -COD, Cards, Online
-        -Standard Class dominates shipping
+         Payment & Shipping Mode Analysis
+            -COD, Cards, Online
+            -Standard Class dominates shipping
  
-     Geo Distribution Map
-        -Visualizes regional sales performance
+        Geo Distribution Map
+             -Visualizes regional sales performance
  
-     Return Status
-        -Highlights return percentage (low return rate insight)
+        Return Status
+            -Highlights return percentage (low return rate insight)
 
     4. 📈 Business Impact & Insights
         📌 Consumer segment contributes highest sales (~51%)
