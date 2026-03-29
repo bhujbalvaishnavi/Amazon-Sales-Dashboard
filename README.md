@@ -40,7 +40,7 @@ The goal is to transform raw data into actionable insights for better strategic 
 
 5. Features / Highlights -
 
-1. 📉 Business Problem
+    1. 📉 Business Problem
 
 Businesses often struggle to:
 
