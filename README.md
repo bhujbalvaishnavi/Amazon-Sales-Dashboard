@@ -23,7 +23,8 @@ The goal is to transform raw data into actionable insights for better strategic 
    Data Modeling – Relationships & schema design
 
 5. Data Source -
-Amazon Sales Dataset (Excel file)
+
+    Amazon Sales Dataset (Excel file)
 
 Contains:
 -Orders
