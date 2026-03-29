@@ -14,9 +14,12 @@ The goal is to transform raw data into actionable insights for better strategic 
    The dashboard was bulit using the following tools and technologies:
 
    Power BI – Data visualization & dashboard creation
-        Excel – Data source & preprocessing
-        DAX (Data Analysis Expressions) – Calculated measures & KPIs
-        Data Modeling – Relationships & schema design
+
+   Excel – Data source & preprocessing
+
+    DAX (Data Analysis Expressions) – Calculated measures & KPIs
+
+   Data Modeling – Relationships & schema design
 
 5. Data Source -
 Amazon Sales Dataset (Excel file)
